@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ios": "cpp",
+        "xiosbase": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "stack": "cpp",
+        "utility": "cpp",
+        "unordered_map": "cpp",
+        "xutility": "cpp",
+        "kmp": "cpp"
+    }
+}

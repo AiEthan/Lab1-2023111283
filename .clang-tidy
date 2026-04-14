@@ -1,0 +1,5 @@
+---
+Checks: 'google-*,bugprone-*,performance-*,readability-*'
+HeaderFilterRegex: '.*'          # 检查所有头文件（如果你有 .h 文件）
+SystemHeaders: false             # 关键：不检查系统头文件
+...

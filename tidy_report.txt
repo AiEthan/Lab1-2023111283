@@ -1,0 +1,15 @@
+/Users/aiethan/Desktop/软件工程/Lab1/Lab1-2023111283/.clang-tidy:5:1: error: unknown key '...'
+...
+^~~
+Error parsing /Users/aiethan/Desktop/软件工程/Lab1/Lab1-2023111283/.clang-tidy: Invalid argument
+/Users/aiethan/Desktop/软件工程/Lab1/Lab1-2023111283/.clang-tidy:5:1: error: unknown key '...'
+...
+^~~
+Error parsing /Users/aiethan/Desktop/软件工程/Lab1/Lab1-2023111283/.clang-tidy: Invalid argument
+/Users/aiethan/Desktop/软件工程/Lab1/Lab1-2023111283/.clang-tidy:5:1: error: unknown key '...'
+...
+^~~
+Error parsing /Users/aiethan/Desktop/软件工程/Lab1/Lab1-2023111283/.clang-tidy: Invalid argument
+20 errors generated.
+Error while processing /Users/aiethan/Desktop/软件工程/Lab1/Lab1-2023111283/test.cpp.
+Found compiler error(s).

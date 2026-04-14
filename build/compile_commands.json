@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/aiethan/Desktop/软件工程/Lab1/Lab1-2023111283/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -arch arm64 -o CMakeFiles/graph_lib.dir/test.cpp.o -c /Users/aiethan/Desktop/软件工程/Lab1/Lab1-2023111283/test.cpp",
+  "file": "/Users/aiethan/Desktop/软件工程/Lab1/Lab1-2023111283/test.cpp",
+  "output": "CMakeFiles/graph_lib.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/aiethan/Desktop/软件工程/Lab1/Lab1-2023111283/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/graph_test.dir/tests.cpp.o -c /Users/aiethan/Desktop/软件工程/Lab1/Lab1-2023111283/tests.cpp",
+  "file": "/Users/aiethan/Desktop/软件工程/Lab1/Lab1-2023111283/tests.cpp",
+  "output": "CMakeFiles/graph_test.dir/tests.cpp.o"
+}
+]
